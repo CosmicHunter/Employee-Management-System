@@ -28,6 +28,6 @@ of any employee
 * Employee table contains all the details of the employees.
 * Employee table has the below shown structure
 
-![](schema.png)
+![](schema.PNG)
 
 
